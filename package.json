@@ -1,0 +1,23 @@
+{
+  "name": "nth-theme",
+  "displayName": "nth-theme",
+  "description": "Dark theme for myself hope i will enjoy it !",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nth-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nth-Theme-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "negrel",
+  "repository": "https://github.com/negrel/nth-theme"
+}
